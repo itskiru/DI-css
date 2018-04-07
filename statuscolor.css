@@ -1,0 +1,41 @@
+/* PLAYING STATUS */
+div[class*="topSectionPlaying-"]{       
+    background: #23272A;
+}
+div[class*="headerPlaying-"]{           
+    background: #23272A;
+}
+html .buttonBrandInverted-VFL7Yc {
+background-color: #43b581;
+color: #fff;
+}
+html .buttonBrandInvertedDefault-uUmgsD:hover {
+background-color: #3ca374;
+}
+
+
+/* SPOTIFY STATUS */
+div[class*="topSectionSpotify-"]{       
+    background: #23272A;
+}
+div[class*="headerSpotify-"]{           
+    background: #23272A;
+}
+html .buttonGreenInverted-3wLrIA {
+background-color: #43b581;
+color: #fff;
+}
+html .buttonGreenInvertedDefault-3m-pe-:hover {
+background-color: #3ca374;
+}
+
+/* STREAMING STATUS */
+div[class*="topSectionStreaming-"]{
+    background: #23272A;
+}
+div[class*="headerStreaming-"]{
+    background: #23272A;
+}
+html .buttonInvertedPurple-15OGid {
+color: #fff;
+}

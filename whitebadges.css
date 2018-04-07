@@ -1,0 +1,19 @@
+/* STAFF */
+[class*='topSection'] [class*='BadgeStaff'] {
+    background-image: url(/assets/4358ad1fb423b346324516453750f569.svg);
+}
+
+/* PARTNER */
+[class*='topSection'] [class*='BadgePartner'] {
+    background-image: url(/assets/33fedf082addb91d88abc272b4b18daa.svg);
+}
+
+/* HYPESQUAD */
+[class*='topSection'] [class*='BadgeHype'] {
+    background-image: url(/assets/17ebd99540a6e983bade13c3afff7946.svg);
+}
+
+/* NITRO */
+[class*='topSection'] [class*='BadgePremium'] {
+    background-image: url(/assets/386884eecd36164487505ddfbac35a9d.svg);
+}
